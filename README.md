@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/license/soham-kyo/kyode-editor?style=flat-square&color=a78bfa"/>
+<img src="https://img.shields.io/github/license/soham-kyo/KyodeEditor?style=flat-square&color=a78bfa"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/soham-kyo/kyode-editor?style=flat-square&color=f59e0b"/>
+<img src="https://img.shields.io/github/stars/soham-kyo/KyodeEditor?style=flat-square&color=f59e0b"/>
 &nbsp;
-<img src="https://img.shields.io/github/forks/soham-kyo/kyode-editor?style=flat-square&color=60a5fa"/>
+<img src="https://img.shields.io/github/forks/soham-kyo/KyodeEditor?style=flat-square&color=60a5fa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square"/>
 &nbsp;
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-### ⚡ [**OPEN THE LIVE EDITOR →**](https://soham-kyo.github.io/kyode-editor) ⚡
+### ⚡ [**OPEN THE LIVE EDITOR →**](https://soham-kyo.github.io/KyodeEditor) ⚡
 
 <br/>
 
@@ -86,7 +86,7 @@ Just three files and a dream.
 ### Option 1 — Just open it (seriously)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/kyode-editor.git
+git clone https://github.com/YOURUSERNAME/KyodeEditor.git
 cd kyode-editor
 # open index.html in any browser. that's it. you're done.
 ```
@@ -95,7 +95,7 @@ No terminal. No server. No setup. Open `index.html`.
 
 ### Option 2 — Use the live version
 
-[https://YOURUSERNAME.github.io/kyode-editor](https://YOURUSERNAME.github.io/kyode-editor)
+[https://YOURUSERNAME.github.io/kyode-editor](https://YOURUSERNAME.github.io/KyodeEditor)
 
 ### Option 3 — Serve locally (optional, for file:// edge cases)
 
@@ -114,7 +114,7 @@ npx serve .
 ## 🗂️ Project Structure
 
 ```
-kyode-editor/
+KyodeEditor/
 ├── index.html        ← markup & structure
 ├── style.css         ← all styling, themes, responsive
 ├── script.js         ← all logic, zero dependencies
@@ -177,8 +177,8 @@ The entire editor IS the source code.
 PRs are welcome. The bar is: **it should work, and it should look good.**
 
 ```bash
-git clone https://github.com/soham-kyo/kyode-editor.git
-cd kyode-editor
+git clone https://github.com/soham-kyo/KyodeEditor.git
+cd KyodeEditor
 # open index.html, make your changes, open a PR
 ```
 
