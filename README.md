@@ -87,7 +87,7 @@ Just three files and a dream.
 
 ```bash
 git clone https://github.com/YOURUSERNAME/KyodeEditor.git
-cd kyode-editor
+cd KyodeEditor
 # open index.html in any browser. that's it. you're done.
 ```
 
