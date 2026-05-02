@@ -95,7 +95,7 @@ No terminal. No server. No setup. Open `index.html`.
 
 ### Option 2 — Use the live version
 
-[https://soham-kyo.github.io/kyode-editor](https://soham-kyo.github.io/KyodeEditor)
+[https://soham-kyo.github.io/KyodeEditor](https://soham-kyo.github.io/KyodeEditor)
 
 ### Option 3 — Serve locally (optional, for file:// edge cases)
 
