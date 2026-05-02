@@ -86,7 +86,7 @@ Just three files and a dream.
 ### Option 1 — Just open it (seriously)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/KyodeEditor.git
+git clone https://github.com/soham-kyo/KyodeEditor.git
 cd KyodeEditor
 # open index.html in any browser. that's it. you're done.
 ```
@@ -95,7 +95,7 @@ No terminal. No server. No setup. Open `index.html`.
 
 ### Option 2 — Use the live version
 
-[https://YOURUSERNAME.github.io/kyode-editor](https://YOURUSERNAME.github.io/KyodeEditor)
+[https://soham-kyo.github.io/kyode-editor](https://soham-kyo.github.io/KyodeEditor)
 
 ### Option 3 — Serve locally (optional, for file:// edge cases)
 
